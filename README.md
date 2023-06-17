@@ -55,7 +55,11 @@ Or if you want to edit and play with the project import this .aia file in MIT ap
 
 ## Demo
 
-Insert gif or link to demo
+
+
+https://github.com/nishikantmandal007/generative_AI/assets/113323074/c0ba0570-68c7-4292-b35a-5967a11ec409
+
+
 
 
 ## Badges
