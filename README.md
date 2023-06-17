@@ -50,15 +50,9 @@ Or if you want to edit and play with the project import this .aia file in MIT ap
 
 
 ## Screenshots
-|                                       ||                                       |
+|                                       |
 |:-------------------------------------:|
-|  |![02](https://github.com/nishikantmandal007/generative_AI/assets/113323074/931aac6f-c966-4d8e-ab34-3641d57f1608)
-
-|:-------------------------------------:|
-|  |![01](https://github.com/nishikantmandal007/generative_AI/assets/113323074/e14f90d9-ecfd-4560-8cc8-413e36510e6b)
-
-
-
+|https://photos.google.com/photo/AF1QipO0I9f8KkuzRbijsN4d6dNG2q2MVAw-gH-vfue1 |
 
 ## Demo
 
