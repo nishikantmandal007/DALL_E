@@ -34,7 +34,6 @@ Or if you want to edit and play with the project import this .aia file in MIT ap
 
 ## API Reference
 
-#### Get all items
 
 ```http
   https://platform.openai.com/
