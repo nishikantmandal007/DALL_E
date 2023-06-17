@@ -50,11 +50,13 @@ Or if you want to edit and play with the project import this .aia file in MIT ap
 
 
 ## Screenshots
-| Demo01                              | Dog pics                            | Lizzard                                     |
-| ----------------------------------- | ----------------------------------- | ------------------------------------------- |
-| ![01](https://github.com/nishikantmandal007/generative_AI/assets/113323074/ae508888-18c2-45bb-9130-50200065bcc2) | ![dog](https://example.com/dog.png) | ![lizzard](https://example.com/lizzard.png) |
+|                                       ||                                       |
+|:-------------------------------------:|
+|  |![02](https://github.com/nishikantmandal007/generative_AI/assets/113323074/931aac6f-c966-4d8e-ab34-3641d57f1608)
 
-![01](https://github.com/nishikantmandal007/generative_AI/assets/113323074/ae508888-18c2-45bb-9130-50200065bcc2)
+|:-------------------------------------:|
+|  |![01](https://github.com/nishikantmandal007/generative_AI/assets/113323074/e14f90d9-ecfd-4560-8cc8-413e36510e6b)
+
 
 
 
