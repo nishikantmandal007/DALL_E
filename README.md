@@ -38,7 +38,8 @@ Or if you want to edit and play with the project import this .aia file in MIT ap
 ```http
   (https://platform.openai.com/)
 ```
-
+## CODE_BLOCKS_ MIT app Inventor
+![coding blocks](https://github.com/nishikantmandal007/generative_AI/assets/113323074/342698dc-34eb-4dfd-ba4e-2fb5fe623c20)
 
 
 
