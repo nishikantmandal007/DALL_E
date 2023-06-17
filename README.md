@@ -50,6 +50,11 @@ Or if you want to edit and play with the project import this .aia file in MIT ap
 
 
 ## Screenshots
+![Screenshot_20230617-115955_GenerativeAI](https://github.com/nishikantmandal007/generative_AI/assets/113323074/2d1e0e28-68d6-4622-bec0-1321351d45fb)
+![Screenshot_20230617-115847_GenerativeAI](https://github.com/nishikantmandal007/generative_AI/assets/113323074/b0d424c1-4646-4a23-b065-d338dab476![Screenshot_20230617-115912_GenerativeAI](https://github.com/nishikantmandal007/generative_AI/assets/113323074/0fd07c25-11cc-4ead-956b-b76564c66a1a)
+6f)![Screenshot_20230617-115927_GenerativeAI](https://github.com/nishikantmandal007/generative_AI/assets/113323074/ae77f3d7-20d1-48d1-81af-d54534e498![Screenshot_20230617-115934_GenerativeAI](https://github.com/nishikantmandal007/generative_AI/assets/113323074/d521285b-1d4f-4ed2-b1db-b2e37ac1c5ae)
+15)
+
 
 
 ## Demo
