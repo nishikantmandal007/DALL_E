@@ -36,7 +36,7 @@ Or if you want to edit and play with the project import this .aia file in MIT ap
 
 
 ```http
-  https://platform.openai.com/
+  https://platform.openai.com
 ```
 
 
