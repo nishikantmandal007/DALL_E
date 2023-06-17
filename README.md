@@ -50,6 +50,9 @@ Or if you want to edit and play with the project import this .aia file in MIT ap
 
 
 ## Screenshots
+| Demo01                              | Dog pics                            | Lizzard                                     |
+| ----------------------------------- | ----------------------------------- | ------------------------------------------- |
+| ![01](https://github.com/nishikantmandal007/generative_AI/assets/113323074/ae508888-18c2-45bb-9130-50200065bcc2) | ![dog](https://example.com/dog.png) | ![lizzard](https://example.com/lizzard.png) |
 
 ![01](https://github.com/nishikantmandal007/generative_AI/assets/113323074/ae508888-18c2-45bb-9130-50200065bcc2)
 
