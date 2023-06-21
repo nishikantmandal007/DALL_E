@@ -1,6 +1,6 @@
 
 # EvoPictura: AI-Powered Visual Renaissance
-The project's name is generativeAI built using MIT app Inventor whose soul funtion is to send prompt to OpenAi's API to get visuals of the given prompt.This project was created for educational purpose and to learn about how API works.
+The project's name is "EvoPictura: AI-Powered Visual Renaissance" built using MIT app Inventor whose soul funtion is to send prompt to OpenAi's API to get visuals of the given prompt.This project was created for educational purpose and to learn about how API works.
 
 ![Downloader la -64928f7baca01-modified](https://github.com/nishikantmandal007/EvoPictura-AI-Powered-Visual-Renaissance/assets/113323074/16641e3c-b496-4e8c-97d7-f7d61a2ecc68)
 
