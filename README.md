@@ -1,5 +1,5 @@
 
-## generativeAI Application 
+## EvoPictura: AI-Powered Visual Renaissance
 The project's name is generativeAI built using MIT app Inventor whose soul funtion is to send prompt to OpenAi's API to get visuals of the given prompt.This project was created for educational purpose and to learn about how API works.
 # DALL-E2 API
 
