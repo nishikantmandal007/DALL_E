@@ -1,7 +1,8 @@
 
-## EvoPictura: AI-Powered Visual Renaissance
+# EvoPictura: AI-Powered Visual Renaissance
 The project's name is generativeAI built using MIT app Inventor whose soul funtion is to send prompt to OpenAi's API to get visuals of the given prompt.This project was created for educational purpose and to learn about how API works.
-# DALL-E2 API
+
+## DALL-E2 API
 
 DALL·E2 is an advanced language model developed by OpenAI. It builds upon its predecessor, DALL·E, and extends its capabilities to generate images from textual descriptions. The DALL·E2 API allows developers to interact with this powerful model programmatically.
 
